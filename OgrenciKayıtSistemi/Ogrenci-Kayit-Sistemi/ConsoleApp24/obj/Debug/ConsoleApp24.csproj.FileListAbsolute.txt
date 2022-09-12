@@ -1,0 +1,14 @@
+C:\Users\alper\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.exe.config
+C:\Users\alper\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.exe
+C:\Users\alper\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.pdb
+C:\Users\alper\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.csproj.AssemblyReference.cache
+C:\Users\alper\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.exe
+C:\Users\alper\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.pdb
+C:\Users\alper\Masaüstü\yazılım\c# projeler\OgrenciKayıtSistemi-console-mid\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.exe.config
+C:\Users\alper\Masaüstü\yazılım\c# projeler\OgrenciKayıtSistemi-console-mid\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.exe
+C:\Users\alper\Masaüstü\yazılım\c# projeler\OgrenciKayıtSistemi-console-mid\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.pdb
+C:\Users\alper\Masaüstü\yazılım\c# projeler\OgrenciKayıtSistemi-console-mid\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.csproj.AssemblyReference.cache
+C:\Users\alper\Masaüstü\yazılım\c# projeler\OgrenciKayıtSistemi-console-mid\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.csproj.CoreCompileInputs.cache
+C:\Users\alper\Masaüstü\yazılım\c# projeler\OgrenciKayıtSistemi-console-mid\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.exe
+C:\Users\alper\Masaüstü\yazılım\c# projeler\OgrenciKayıtSistemi-console-mid\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.pdb
